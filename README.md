@@ -17,7 +17,7 @@ It is a group project with two other collegues. All coding and modelling was my 
 [Here](bist_100_signalling.ipynb) is the related notebook.
 
 
-# 1. Forecasting Liquidated Firm Count 
+# 3. Forecasting Liquidated Firm Count 
 In this small project, I made a simple model to forecast liquidated firm counts in Turkey.
 
 [Here](Liq_firm.html) is the project report and codes.
