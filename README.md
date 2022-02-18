@@ -12,6 +12,6 @@ It is a small project that contains basic data analysis & visualization.
 # BIST 100 TRADING SIGNALLING MODEL USING GDELT DATA
 It is a group project with two other collegues. All coding and modelling was my duty while the other group members helped with the financial intuitions and ideas. For further details of the project please check the presentation in the provided link.
 
-[Here](TRADING SIGNAL MODEL USING GDELT.pptx.pdf) is the powerpoint representation for the project.
+[Here](bist_100_signalling.pdf) is the powerpoint representation for the project.
 
 [Here](bist_100_signalling.ipynb) is the related notebook.
