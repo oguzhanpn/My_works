@@ -1,5 +1,6 @@
 # My Selected Works
 ### Oğuzhan PINAR
+e-mail: oguzhanpn@gmail.com
 
 In this site you can find some of my selected works.
 
