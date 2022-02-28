@@ -22,3 +22,9 @@ It is a group project with two other collegues. All coding and modelling was my 
 In this small project, I made a simple model to forecast liquidated firm counts in Turkey.
 
 [Here](Liq_firm.html) is the project report and codes.
+
+# 4. Forecasting Electricity Consumption of Turkey 
+In this group project, we forecasted the electricity consumption in Turkey. I've made the all data visualizations and some modelling. 
+
+[Here](Forecasting_electricity_consumption.html) is the project report and codes.
+
