@@ -28,3 +28,10 @@ In this group project, we forecasted the electricity consumption in Turkey. I've
 
 [Here](Forecasting_electricity_consumption.html) is the project report and codes.
 
+
+# 5. Credit Demand Elasticity 
+In this research project you will see a research proposal of me.
+
+[Here](credit_demand_elasticity_research_proposal.pdf) is the project report.
+
+
