@@ -38,6 +38,8 @@ In this research project you will see a research proposal of me.
 # 6. Point and Figure Analysis
 In this project, I built a Python module that draws the PnF chart of given stocks and highlights the Bullish and Bearish triggers of that stock on the chart.
 
+[Here](PnF%20analysis/PNF_triggers_how_to_run%20(1).mp4) is the video showing the usage of the module.
+
 [Here](PnF%20analysis/readme.txt) is the Read me file that explains how to use the module.
 
 [Here](PnF%20analysis/pnf_triggers.py) is the codes.
